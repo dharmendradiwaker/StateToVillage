@@ -1,6 +1,6 @@
-# 🌍 **VillageFinder: Web Scraper for Geographic Data** 🌍
+# 🌍 **StateToVillage: Web Scraper for Geographic Data** 🌍
 
-**VillageFinder** is a powerful web scraper that extracts location-based data from websites, including **states**, **districts**, **tehsils**, and **villages**. This project is designed to collect hierarchical geographic data, structure it in an organized way, and save it for further analysis or reference.
+**StateToVillage** is a powerful web scraper that extracts location-based data from websites, including **states**, **districts**, **tehsils**, and **villages**. This project is designed to collect hierarchical geographic data, structure it in an organized way, and save it for further analysis or reference.
 
 ## 🛠️ **Technologies Used:**
 - 🐍 **Python**
@@ -20,8 +20,8 @@ To get started, follow these steps to install the necessary dependencies:
 
 ### 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/VillageFinder.git
-cd VillageFinder
+git clone https://github.com/dharmendradiwaker/StateToVillage.git
+cd StateToVillage
 ```
 
 ### 2. Install required packages:
@@ -98,6 +98,6 @@ We welcome contributions! If you have an idea to improve the scraper or fix bugs
 4. Push the branch (`git push origin feature/your-feature-name`).
 5. Submit a pull request!
 
-### Thank you for using **VillageFinder**! 🌍 Happy scraping! 😊
+### Thank you for using **StateToVillage**! 🌍 Happy scraping! 😊
 
 --- 
